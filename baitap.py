@@ -38,8 +38,8 @@ viết chương trình nhập số nguyên a và x
 in ra màn hình các phép toán tử gán của a và x """
 
 
-a=int(input("nhập a"))
-x=int(input("nhập x"))
+a=int(input("nhập a="))
+x=int(input("nhập x="))
 
 a+=x
 print("a+=x =>a=",a)
